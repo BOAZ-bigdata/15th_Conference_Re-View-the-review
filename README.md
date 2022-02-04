@@ -45,19 +45,30 @@ PPT 사진4
 ### 실험결과
 PPT 사진5
 
-###### 군집 개수
+#### 군집 개수
 
-###### 군집별 키워드 추출
+#### 군집별 키워드 추출
 
-###### 군집별 Top k 리뷰 추출
+#### 군집별 Top k 리뷰 추출
 
 ## 유용성 결정요인 파악 및 분석
 
 ## 웹 구현
+[웹 시연 영상(youtube)](https://youtu.be/VAzpjofp-Zw)
+- Streamlit을 활용하여 프로토타입 완성
+- Screenshots
+ <img width="450" alt="스크린샷 2022-02-04 오후 5 49 04" src="https://user-images.githubusercontent.com/58161277/152499301-011333b8-2b94-4fc6-bdac-253093d831be.png" align="left">
+ <img width="450" alt="스크린샷 2022-02-04 오후 5 54 26" src="https://user-images.githubusercontent.com/58161277/152500043-3d7579de-8b1d-4dc3-b00f-baa43f3e0aed.png">
+
+ <img alt="스크린샷 2022-02-04 오후 5 50 02" src="https://user-images.githubusercontent.com/58161277/152499445-01b6025d-5ee8-4ef0-97f1-e49cff346543.png" align="center">
+ <img alt="스크린샷 2022-02-04 오후 5 56 01" src="https://user-images.githubusercontent.com/58161277/152500286-1694dec5-9110-42ed-a616-c9aa2eece372.png" align="center">
+ <img alt="스크린샷 2022-02-04 오후 5 56 15" src="https://user-images.githubusercontent.com/58161277/152500319-f410e049-0f20-4e5a-aa92-7352bb36b557.png" align="center">
+
 
 ## 결론 및 제언
 
-----
+
+
 ## Contributors
 
 <table>
@@ -69,5 +80,3 @@ PPT 사진5
       <td align="center"><a href="https://github.com/hul980"><img src="https://github.com/hul980.png" width="100" height="100"><br /><sub><b>황의린</b></sub></td> 
     </tr>
 </table>
-
-----
